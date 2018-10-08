@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+header{
+    background: #385998;
+    padding: 15px;
+}
+
+header .logo-area {
+    color: white;
+    display: inline-block;
+    width: 20%;
+    margin-left: -4px;
+}
+
+header .logo-area a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+header .menu {
+    display: inline-block;
+    width: 20%;
+    margin-left: -4px;
+}
+
+header .menu ul li {
+    display: inline-block;
+}
+
+header .icon-links {
+    display: inline-block;
+    width: 20%;
+    margin-left: -4px;
+}
+
+header .icon-links ul li {
+    display: inline-block;
+}
+
+header .icon-links  .quick-operations {
+    display: inline-block;
+    margin-left: -4px;
+}
+
+header .icon-links .privacy {
+    display: inline-block;
+    margin-left: -4px;
+}
+
+header .search-area {
+    display: inline-block;
+    width: 40%;
+    margin-left: -4px;
+    text-align: right;
+}
+
+header .search-area ul li {
+    display: inline-block;
+}
